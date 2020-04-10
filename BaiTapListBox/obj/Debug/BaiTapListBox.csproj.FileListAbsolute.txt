@@ -1,0 +1,10 @@
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\bin\Debug\BaiTapListBox.exe.config
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\bin\Debug\BaiTapListBox.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\bin\Debug\BaiTapListBox.pdb
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\obj\Debug\BaiTapListBox.csprojAssemblyReference.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\obj\Debug\BaiTapListBox.Form1.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\obj\Debug\BaiTapListBox.Properties.Resources.resources
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\obj\Debug\BaiTapListBox.csproj.GenerateResource.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\obj\Debug\BaiTapListBox.csproj.CoreCompileInputs.cache
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\obj\Debug\BaiTapListBox.exe
+D:\K2 - Nam3\C#\PhanBaGiang_2017603673\BaiTapListBox\obj\Debug\BaiTapListBox.pdb
